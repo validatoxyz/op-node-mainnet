@@ -31,10 +31,9 @@ npm install -g pnpm
 # Install Foundry
 curl -L https://foundry.paradigm.xyz | bash
 . ~/.bashrc
-sudo source /root/.bashrc
 source /root/.bashrc
-source /root/.bashrc
-source /root/.bashrc
+source /root/.bashrc;
+source /root/.bashrc;
 foundryup
 
 
